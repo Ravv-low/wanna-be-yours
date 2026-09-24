@@ -1,29 +1,29 @@
-# 🎵 Wanna Be Yours - Interactive Musical Web Page
+# 💖 Wanna Be Yours - Interactive Valentine Web App
 
-An aesthetic, interactive web page inspired by the song *"I Wanna Be Yours"*. Built using HTML, CSS, and JavaScript with custom styling, smooth animations, and background audio integration.
+An aesthetic and interactive romantic web application built with HTML, CSS, and JavaScript. Inspired by the song *"I Wanna Be Yours"*, featuring cute animations, floating heart effects, and dynamic button responses.
 
 ---
 
 ## ✨ Features & Highlights
 
-- **Aesthetic Visual Design**: Custom typography, CSS animations, and modern UI styling.
-- **Audio Integration**: Interactive background music playback for an immersive experience.
-- **Responsive Layout**: Designed to adapt across different screen sizes (Desktop & Mobile).
-- **Interactive UI**: Engaging user interactions powered by vanilla JavaScript.
+- **Interactive Proposal UI**: Playful "Will you be my Valentine?" card with dynamic "Yes" & "No" button interactions.
+- **Cute Aesthetics**: Features adorable GIF animations (Peach & Goma) and smooth floating heart particle backgrounds.
+- **Responsive Design**: Fully optimized for both desktop and mobile web viewports.
+- **Clean Animations**: Pure CSS transitions and light JavaScript interaction logic.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **HTML5**: Page structure and semantic elements.
-- **CSS3**: Custom styling, layout responsiveness, and keyframe animations.
-- **JavaScript (ES6+)**: DOM manipulation and media playback controls.
+- **HTML5**: Page structure & semantic elements.
+- **CSS3**: Custom styling, keyframe animations, and glassmorphism UI.
+- **JavaScript**: DOM manipulation and button interaction handling.
 
 ---
 
 ## 🚀 Live Demo
 
-Check out the live website here:
+Check out the live interactive site here:
 👉 **[Wanna Be Yours Live Website](https://ravv-low.github.io/wanna-be-yours/)**
 
 ---
